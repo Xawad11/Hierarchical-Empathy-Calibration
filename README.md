@@ -48,10 +48,3 @@ Fine-tuning was executed over 3 epochs using the AdamW optimizer (Learning Rate:
 * Scikit-Learn
 * SciPy
 * NumPy & Pandas
-
----
-
-
-* **Md. Jawadul Hasan**
-* **Nahin Alam**
-* **Faculty Advisor:** Dr. Mohammad Ashrafuzzaman Khan (Associate Professor)
